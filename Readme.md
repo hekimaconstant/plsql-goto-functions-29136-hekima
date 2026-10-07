@@ -137,7 +137,10 @@ plsql-goto-functions-29136-hekima/
   ```
 
 * **Execution Proofs:**
+*  ***B5_select_output***
   ![](./screenshots/B5_select_output.png)
+
+* ***C1-output***
   ![](./screenshots/C1_output.png)
 
 ---
