@@ -95,9 +95,16 @@ plsql-goto-functions-29136-hekima/
   * `A4_rewrite_no_goto.sql`: Clean refactored logic eliminating `GOTO` statements.
 
 * **Execution Proofs:**
+* ***A1_output***
   ![](./screenshots/A1_output.png)
+  
+* ***A2_output***
   ![](./screenshots/A2_output.png)
+  
+* ***A3_error_and_fix***
   ![](./screenshots/A3_error_and_fix.png)
+  
+* ***A4_output***
   ![](./screenshots/A4_output.png)
 
 ---
